@@ -5,13 +5,13 @@
       {
         "appID": "3MTCATVY6M.com.ex-iq.podcast",
         "paths": [
-          "NOT /", "/sub"
+          "NOT /*", "/sub"
         ]
       },
       {
         "appID": "Z5X4436UL4.com.ex-iq.podcast",
         "paths": [
-          "NOT /", "/sub"
+          "NOT /*", "/sub"
         ]
       }
     ]
